@@ -39,7 +39,7 @@ Yazılım geliştirme sürecinin her aşamasından büyük keyif alıyorum: bir 
 
 ## İletişim
 
-- 📫 Bana ulaşın: f.kayaci@outlook.com.tr
+- 📫 Bana ulaşın: fatihkayaci@yahoo.com
 - 🌐 LinkedIn: https://www.linkedin.com/in/fatih-kayacı-79180a28a/
 
 ⭐️ Bu projeyi beğendiyseniz, lütfen GitHub'ta yıldız vermeyi unutmayın!
