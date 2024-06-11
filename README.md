@@ -1,7 +1,8 @@
 <img src="BackEndDeveloper.png" />
 
 ### Junior BackEnd Developer 👋 Fatih Kayacı 
-[![translate](https://img.shields.io/badge/For_English_CLICK_Here-English_Click_here?style=flat-square&logo=googletranslate&labelColor=white&color=blue)](https://github-com.translate.goog/LuNiZz?_x_tr_sl=tr&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+[![translate](https://img.shields.io/badge/For_English_CLICK_Here-English_Click_here?style=flat-square&logo=googletranslate&labelColor=white&color=blue)](https://github.com/[yourusername](https://github.com/fatihkayaci))
+
 <sub>
 # Ben Junior Backend Developer
 <img 
