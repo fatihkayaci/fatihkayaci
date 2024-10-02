@@ -3,25 +3,21 @@
 ### Junior Software Engineer 👋 Fatih Kayacı 
 
 # Ben Junior Software Engineer
- Merhaba! Ben Fatih Kayacı, genç ve tutkulu bir Backend geliştiricisiyim. Yazılım dünyasına olan ilgim, lise yıllarıma dayanıyor. Bu tutkum, üniversitedeki bilgisayar mühendisliği dersleriyle daha da pekişti ve o zamandan beri kendimi sürekli olarak geliştirmek için çalışıyorum.
-
-Yazılım geliştirme sürecinin her aşamasından büyük keyif alıyorum: bir problemin analiz edilip çözüme kavuşmasından, temiz ve verimli kod yazmaya, performans optimizasyonlarına kadar. Yeni teknolojileri öğrenmek, bu teknolojileri projelerimde kullanmak ve her gün kendime yeni meydan okumalar yaratmak benim için büyük bir heyecan kaynağı.
-
-Üniversite hayatım boyunca ve mezuniyet sonrasında birçok projede yer almaya çalışıyorum. Bu projeler, hem teknik becerilerimi geliştirmemi sağlayacağını düşünüyor hem de takım çalışması, proje yönetimi ve zaman yönetimi gibi önemli yetenekler kazandıracağına inanıyorum. Hedefim, kariyerimde sürekli olarak yeni şeyler öğrenmek ve edindiğim bilgileri paylaşarak yazılım dünyasına katkıda bulunmak.
+ Junior Software Engineer olarak, ASP.NET ve Web API üzerine yoğunlaşarak backend geliştirme alanında projeler üretiyorum. Bilgisayar Mühendisliği bölümünden yeni mezun oldum ve C#, .NET gibi modern programlama dilleri ile sunucu tarafı geliştirme, API entegrasyonu ve veritabanı yönetimi üzerine çalışıyorum. Ayrıca, Unity ile oyun geliştirme ve PHP, Java, JavaScript gibi modern dillerle web geliştirme projelerinde de deneyim kazandım. Teknoloji dünyasında kendimi sürekli geliştirerek, çözüm odaklı projelerde yer almak benim için büyük bir tutku.
 <br>
 ## Hakkımda
 
 - 🎓 Eğitim: Bilgisayar Mühendisliği Lisans
-- 💼 Çalışma Durumu: Şu anda herhangi bir yerde çalışmıyorum. 3 arkadaş proje geliştiriyoruz.
-- 🌱 Şu anda öğreniyorum: şu an C# yazılım bilgimi geliştiriyorum, .Net teknolojisini ve AWS bulut bilişimini öğrenmeye başladım.
-- 🛠️ Uzmanlık Alanlarım: PHP, Java, JavaScript, C#, Html, Css, Unity
-- ⚡ İlgi Alanlarım: bütün yazılıma ilgim var.
+- 💼 Çalışma Durumu: Şu anda herhangi bir yerde çalışmıyorum, ancak kendimi geliştirmek için çeşitli eğitim platformlarında eğitimler alıyorum.
+- 🌱 Şu anda öğreniyorum: C# yazılım bilgimi geliştiriyorum, ASP.NET Web API üzerine eğitimler alıyorum. Ayrıca, çeşitli teknolojiler ve temel bilgilerimi güçlendirmek için eğitimlere devam ediyorum.
+- 🛠️ Uzmanlık Alanlarım: ASP.NET, Web API, C#, Veritabanı Yönetimi
+- ⚡ İlgi Alanlarım: Backend geliştirme, API entegrasyonu, oyun geliştirme (Unity), web geliştirme (PHP, Java, JavaScript)
 
 ## Projelerim
 
 ### Katsis
-- **Açıklama:** Bu projemde bina yönetim sistemi yapmaya çalışıyoruz. Binada oturan kiracı ve katmaliklerinin, binayı yöneten yöneticilerin binadaki gelişen tadilat, tamirat için toplanması gereken aidatların, ödenmesi gerek faturaların sistemden kolayca ödenebilmesi hem oturan kişilerin hemde yöneticilerin işlerini bayağa bir kolaylaştırmayı hedefleyen bir proje.
-- **Teknolojiler:** Html, CSS, JavaScript, Php, MySql dillerini ve teknolojilerini kullanmaya çalışıyoruz.
+- **Açıklama:** Bu projede, bina yönetim sistemi geliştirmeyi hedefliyoruz. Proje, binada yaşayan kiracıların ve kat maliklerimizin, binayı yöneten yöneticilerin işlerini kolaylaştırmak amacıyla tasarlanmıştır. Kullanıcılar, binadaki tadilat ve tamirat işlemleri için gereken aidatların yanı sıra ödenmesi gereken faturaları sistem üzerinden kolayca ödeyebilecekler. Bu sayede, hem oturanların hem de yöneticilerin iş süreçleri büyük ölçüde hızlanacak ve kolaylaşacaktır.
+- **Teknolojiler:** HTML, CSS, JavaScript, PHP, MySQL gibi modern web teknolojilerini kullanarak geliştirmekteyiz.
 - **GitHub Repo:** https://github.com/fatihkayaci/Katsis
 
 ## İletişim
