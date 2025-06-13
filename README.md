@@ -1,19 +1,19 @@
 # Hi there! 👋 I'm Fatih Kayacı
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full+Stack+Developer;Passionate+About+Learning;Always+Coding+Something!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Computer+Engineer;Polyglot+Developer;Problem+Solver;Always+Learning+New+Tech!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a **Computer Engineer** passionate about software development and continuously expanding my expertise. During my academic journey, I built a solid foundation in algorithms, data structures, and object-oriented programming (OOP).
+I'm a **Computer Engineer** passionate about software development and continuously expanding my expertise across multiple technologies. During my academic journey, I built a solid foundation in algorithms, data structures, and object-oriented programming (OOP).
 
-- 🔭 Currently specializing in **C# and ASP.NET Core**
-- 🌱 Always learning and exploring new technologies
-- 👯 Looking to collaborate on innovative projects
-- 💬 Ask me about **C#, ASP.NET Core, Web Development**
+- 🔭 Currently working on **full-stack web applications** using modern technologies
+- 🌱 Always learning and exploring **emerging technologies and frameworks**
+- 👯 Looking to collaborate on **innovative open-source projects**
+- 💬 Ask me about **Software Architecture, Web Development, Database Design**
 - 📫 How to reach me: **fatihkayaci@yahoo.com**
-- ⚡ Fun fact: I love solving algorithmic challenges!
+- ⚡ Fun fact: I love solving algorithmic challenges and building things from scratch!
 
 ## 🛠️ Tech Stack
 
@@ -25,27 +25,32 @@ I'm a **Computer Engineer** passionate about software development and continuous
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frameworks & Technologies
+### Backend Frameworks
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### Frontend
+### Frontend Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Databases
+### Databases & Cloud
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### Tools & Platforms
+### Development Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ## 📊 GitHub Overview
 
@@ -54,15 +59,16 @@ I'm a **Computer Engineer** passionate about software development and continuous
     <img src="https://img.shields.io/github/followers/fatihkayaci?style=for-the-badge&color=blue&labelColor=black&label=Followers" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/fatihkayaci?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Check%20out%20my%20projects-blue?style=for-the-badge&labelColor=black" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-Explore%20My%20Projects-blue?style=for-the-badge&labelColor=black" alt="Repositories" />
   </a>
 </div>
 
 ### 🚀 Current Focus
-- 🔨 Building **Katsis - Building Management System**
-- 📚 Learning **Advanced ASP.NET Core**
-- 💪 Strengthening **Algorithm & Data Structures**
-- 🎯 Contributing to **Open Source Projects**
+- 🔨 Building **scalable web applications** with modern tech stacks
+- 📚 Exploring **microservices architecture** and **cloud-native solutions**
+- 💪 Strengthening **system design** and **software architecture** skills
+- 🎯 Contributing to **open source projects** and **tech communities**
+- 🌱 Learning **containerization** and **DevOps practices**
 
 ## 🎓 Education & Certifications
 
@@ -71,47 +77,66 @@ I'm a **Computer Engineer** passionate about software development and continuous
 - 🏆 **Microsoft C# Certification** (2024)
 - 🏆 **TechCareer SQL Excellence Bootcamp** (2024)
 - 📚 **BTK Academy**: Git & GitHub, OOP, Advanced Algorithms, Unity Development
-- 💻 **Turkcell Geleceği Yazanlar**: SQL Querying, C# Algorithms, Web Programming, Unity
+- 💻 **Turkcell Geleceği Yazanlar**: SQL Querying, Algorithms, Web Programming, Unity
 
-## 💼 Experience
+## 💼 Professional Experience
 
-### Intern Software Developer - IAS (Industrial Application Software) | Oct 2024 – Dec 2024
-- Participated in software development processes and collaborated with the project team
-- Worked on **ERP systems**, gaining experience in business processes and database management
-- Provided support in **SQL and database management**, focusing on performance optimization
+### Software Development Intern - IAS (Industrial Application Software) | Oct 2024 – Dec 2024
+- Participated in **full-stack development processes** and collaborated with cross-functional teams
+- Gained hands-on experience with **ERP systems** and enterprise-level application development
+- Worked extensively with **database optimization**, **API development**, and **system integration**
+- Contributed to **code reviews** and followed **agile development methodologies**
 
 ## 🌟 Featured Projects
 
 ### 🏢 Katsis - Building Management System (2025 - Ongoing)
-A comprehensive web-based management system developed for residents and building managers. Digitalizing daily building operations with modern web technologies.
+A comprehensive **full-stack web application** designed to digitalize building management operations with modern web technologies.
 
-- **Role**: Backend Developer & Technical Leader
-- **Tech Stack**: PHP, MySQL, JavaScript
-- **Features**: Event calendar, task management, notifications, user management
+- **Role**: Full-Stack Developer & Technical Lead
+- **Tech Stack**: PHP, MySQL, JavaScript, HTML/CSS
+- **Architecture**: MVC pattern, RESTful APIs, responsive design
+- **Key Features**: 
+  - Event management system with calendar integration
+  - Task assignment and tracking workflows
+  - Real-time notification system
+  - User role management and authentication
+  - Responsive dashboard with analytics
 - **Responsibilities**: 
-  - Backend architecture development
-  - Server setup and technical infrastructure management
-  - Team coordination and weekly project meetings
-  - Database optimization and performance tuning
-- **Status**: Active development phase, presentation planned soon
+  - System architecture design and implementation
+  - Database schema optimization and performance tuning
+  - Frontend/backend integration and API development
+  - Technical team coordination and project planning
 
-### 💻 Algorithm & Data Structure Projects
-Various projects showcasing problem-solving skills and programming fundamentals.
-- **Tech Stack**: C, Python, Java, C#
-- **Focus Areas**: Algorithms, data structures, competitive programming
-- **Platforms**: GitHub, coding bootcamps, educational projects
+### 💻 Multi-Language Algorithm Portfolio
+A comprehensive collection of **algorithmic solutions** and **data structure implementations** across multiple programming languages.
 
-## 💪 Core Strengths
+- **Tech Stack**: C, Python, Java, C#, PHP
+- **Focus Areas**: 
+  - Competitive programming solutions
+  - Design pattern implementations
+  - Performance optimization techniques
+  - Cross-language algorithm comparisons
+- **Highlights**: Clean code practices, comprehensive documentation, unit testing
 
-- 💡 **Strong algorithmic thinking** and problem-solving skills
-- 🤝 **Team player** with excellent communication abilities  
-- 🔥 **Passionate** about learning and adapting to new technologies
-- ⏳ **Effective time management** and multitasking abilities
-- 🏗️ **SOLID principles** and clean architecture advocate
-- 👨‍💼 **Technical leadership** experience in project management
-- 🌐 **Database optimization** and performance tuning expertise
+### 🌐 Web Development Projects
+Various **full-stack applications** showcasing different technologies and architectural patterns.
 
-## 🤝 Let's Connect!
+- **Technologies**: Different combinations of backend (C#/.NET, Python/Django, Java/Spring, PHP/Laravel)
+- **Features**: RESTful APIs, database integration, responsive UIs, authentication systems
+- **Focus**: Scalable architecture, best practices, modern development workflows
+
+## 💪 Core Competencies
+
+- 🧠 **Algorithmic Thinking**: Strong foundation in data structures, algorithms, and problem-solving
+- 🏗️ **Software Architecture**: Experience with design patterns, SOLID principles, and clean architecture
+- 🌐 **Full-Stack Development**: Proficient in both frontend and backend technologies
+- 🗄️ **Database Design**: Expertise in relational databases, optimization, and performance tuning
+- 🤝 **Team Collaboration**: Experience in agile methodologies, code reviews, and technical leadership
+- 📚 **Continuous Learning**: Passionate about staying updated with emerging technologies and best practices
+- 🔧 **Problem Solving**: Analytical approach to complex technical challenges
+- 💻 **Polyglot Programming**: Ability to choose the right technology for specific project requirements
+
+## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
   
@@ -119,6 +144,11 @@ Various projects showcasing problem-solving skills and programming fundamentals.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatihkayaci)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatihkayaci@yahoo.com)
 
+</div>
+
+<div align="center">
+  <h3>💡 Open to exciting opportunities and innovative collaborations!</h3>
+  <p><i>Let's build something amazing together! 🚀</i></p>
 </div>
 
 ---
