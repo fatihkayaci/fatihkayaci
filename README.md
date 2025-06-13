@@ -47,19 +47,22 @@ I'm a **Computer Engineer** passionate about software development and continuous
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatihkayaci&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <a href="https://github.com/fatihkayaci">
+    <img src="https://img.shields.io/github/followers/fatihkayaci?style=for-the-badge&color=blue&labelColor=black&label=Followers" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/fatihkayaci?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Check%20out%20my%20projects-blue?style=for-the-badge&labelColor=black" alt="Repositories" />
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatihkayaci&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihkayaci&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+### 🚀 Current Focus
+- 🔨 Building **Katsis - Building Management System**
+- 📚 Learning **Advanced ASP.NET Core**
+- 💪 Strengthening **Algorithm & Data Structures**
+- 🎯 Contributing to **Open Source Projects**
 
 ## 🎓 Education & Certifications
 
@@ -112,7 +115,7 @@ Various projects showcasing problem-solving skills and programming fundamentals.
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatih-kayaci-79180a28a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatihkayaci)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatihkayaci)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatihkayaci@yahoo.com)
 
