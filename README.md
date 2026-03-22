@@ -6,7 +6,7 @@
 
 <br/>
 
-I am a Software Engineer based in Istanbul, specializing in building scalable and maintainable backend systems. I am passionate about **Domain-Driven Design (DDD)**, **Clean Architecture**, and writing robust **C# / .NET** applications. Currently, I am focused on cloud deployments and integrating modern frontend frameworks.
+I am a Full-Stack Software Engineer based in Istanbul, specializing in building scalable and maintainable systems. I am passionate about **Clean Architecture**, **CQRS**, and writing robust **C# / .NET** applications with modern React frontends.
 
 📫 Reach me at: **fatihkayaci@yahoo.com** | 🔗 [LinkedIn](https://linkedin.com/in/fatihkayaci) | 🌐 [Portfolio](https://fatihkayaci.com)
 
@@ -16,27 +16,20 @@ I am a Software Engineer based in Istanbul, specializing in building scalable an
 
 **Backend & Architecture** ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge&logo=dotnet&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-3A9BDB?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
 
-**Frontend & Web** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Frontend & Web** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Database & DevOps** ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+**Database & DevOps** ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🍽️ [Restaurant POS & Order Management System](Link_To_Your_Repo)
-A highly scalable backend engine for restaurant table and order management.
-- **Architecture:** Clean Architecture, Domain-Driven Design (DDD), CQRS (MediatR).
-- **Security & Quality:** FluentValidation, Custom Guard Clauses, Global Exception Handling.
-- **Tech:** ASP.NET Core Web API, Entity Framework Core, SQL Server.
-
-#### 💰 [Personal Finance Manager](Link_To_Your_Repo)
-A secure RESTful API application allowing users to monitor their income and expense balances.
-- **Tech:** C#, .NET Core, JWT Authentication, PostgreSQL.
-
-#### 📝 [Clean Blog API](Link_To_Your_Repo)
-A fully deployed Blog API utilizing the Repository Pattern and AutoMapper.
-- **DevOps:** CI/CD via GitHub Actions, deployed on Railway using Docker.
+#### 🍽️ [Restaurant POS & Kitchen Display System](https://github.com/fatihkayaci/RestaurantBill)
+A full-stack restaurant management application with real-time kitchen notifications.
+- **Architecture:** Clean Architecture, CQRS (MediatR), Unit of Work, Repository Pattern.
+- **Backend:** ASP.NET Core 9 Web API, Entity Framework Core, PostgreSQL, RabbitMQ, JWT Auth.
+- **Frontend:** React 19, TypeScript, Tailwind CSS, Vite.
+- **Infrastructure:** Docker Compose (PostgreSQL, RabbitMQ, PgAdmin).
 
 ---
 
